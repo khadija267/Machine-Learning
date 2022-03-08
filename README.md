@@ -1,2 +1,24 @@
 # Machine Learning
- Machine Learning Solutions in Python
+
+
+<!-- Add banner here -->
+![Banner](https://miro.medium.com/max/1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg)
+
+
+<!-- Add buttons here -->
+###  Machine Learning Solutions in Python
+
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
+![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
+
+# Table of Content
+
+## 1. Titanic Survival using Decision Tree
+
+
+
+
+
+
