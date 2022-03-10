@@ -21,7 +21,7 @@
 
 Applying clustering and binary classification by classic and ensemble supervised algorithms on network data.
 We got AUC of approx. 1 and +98% accuracy.
-[!alt](https://github.com/khadija267/Machine-Learning/blob/main/images/2.png?raw=true)
+[!Alt](https://github.com/khadija267/Machine-Learning/blob/main/images/2.png?raw=true)
 
 
 
