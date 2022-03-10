@@ -15,7 +15,13 @@
 
 # Table of Content
 
-## 1. Titanic Survival using Decision Tree
+## 1. Titanic Survival
+
+## 2. Network Attack Detection:
+
+Applying clustering and binary classification by classic and ensemble supervised algorithms on network data.
+We got AUC of approx. 1 and +98% accuracy.
+
 
 
 
