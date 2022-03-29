@@ -17,12 +17,7 @@
 
 ## 1. Titanic Survival
 
-## 2. Network Attack Detection:
 
-Applying clustering and binary classification by classic and ensemble supervised algorithms on network data.
-We got AUC of approximately 1 and +98% accuracy.
-
-![alt text](https://github.com/khadija267/Machine-Learning/blob/main/images/2.png?raw=true)
 
 ## 3. Boston Housing Regression:
 Using adaboost, decision tree, random forest and linear regression, the random forest was the champion model with a high r2 score of 0.81, and very low MSE and MAE.
